@@ -26,7 +26,7 @@ public class BankAccount {
     }
 
     public BankAccount(String customerName, String customerEmailAddress, String customerPhoneNumber) {
-        this("99999", 100.55, customerName, customerEmailAddress, customerPhoneNumber;)
+        this("99999", 100.55, customerName, customerEmailAddress, customerPhoneNumber);
 
     }
 
